@@ -35,10 +35,10 @@ I'm Pedro, a developer from Brazil. I'm currently contributing to both Web3 and 
   <hr>
   
 <p>
-  <a href="https://github.com/pedroco3lho">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroco3lho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroco3lho&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<a href="https://github.com/pedroco3lho">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroco3lho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroco3lho&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <!--
