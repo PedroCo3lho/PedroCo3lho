@@ -35,8 +35,8 @@ I'm Pedro, a developer from Brazil. I'm currently contributing to both Web3 and 
   <hr>
 
 <div style="display: flex; justify-content: space-between;">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroco3lho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 45%;" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroco3lho&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" style="max-width: 45%;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedroco3lho&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 45%;" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedroco3lho&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" style="max-width: 45%;" />
 </div>
 
 <!--
