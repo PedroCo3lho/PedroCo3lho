@@ -4,7 +4,7 @@ I'm Pedro, a developer from Brazil. I'm currently contributing to both Web3 and 
 
 ### 🚀 About Me
 - 🎓 Graduating in Systems Analysis and Development
-- 🌐 Passionate about Web3 technologies and decentralized applications
+- 🌐 Enthusiastic about Web3 technologies and decentralized applications
 
 
 ### 🛠️ Technologies & Tools
