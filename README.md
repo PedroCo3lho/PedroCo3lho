@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Pedro, a developer from Brazil. I'm currently contributing to both Web3 and Web2 projects, focusing on enhancing my backend development and code analysis skills.
+I'm Pedro, a developer from Brazil. I'm currently contributing to Web3 and Web2 open-source projects, focusing on full-stack development.
 
 ### 🚀 About Me
 - 🎓 Graduating in Systems Analysis and Development
@@ -30,7 +30,6 @@ I'm Pedro, a developer from Brazil. I'm currently contributing to both Web3 and 
 ### 🌱 Currently Learning
 - Smart contracts
 - Rust
-- Web Development
 
   <hr>
 
